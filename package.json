@@ -1,0 +1,24 @@
+{
+  "name": "salesmachine-node",
+  "version": "1.0.0",
+  "description": "This is a lib for salesmachine in node.",
+  "homepage": "https://docs.salesmachine.io/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandre Tavares <xptavares@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xptavares/salesmachine-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xptavares/salesmachine-node/issues"
+  },
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
