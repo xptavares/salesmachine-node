@@ -72,7 +72,7 @@ salesmachine.account('78910', {
 
 (The MIT License)
 
-Copyright (c) 2011 Alexandre Tavares &lt;xptavares@gmail.com&gt;
+Copyright (c) 2017 Alexandre Tavares &lt;xptavares@gmail.com&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
