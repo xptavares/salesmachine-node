@@ -1,6 +1,6 @@
 {
   "name": "salesmachine-node",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a lib for salesmachine in node.",
   "homepage": "https://docs.salesmachine.io/",
   "main": "index.js",
